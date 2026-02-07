@@ -1,0 +1,274 @@
+<div class="min-h-screen bg-gradient-to-br from-slate-50 to-orange-50">
+	<!-- Navigation -->
+	<nav class="bg-white/80 backdrop-blur-md fixed w-full z-10 shadow-sm">
+		<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+			<div class="flex justify-between items-center h-16">
+				<div class="flex items-center">
+					<span class="text-2xl font-bold bg-gradient-to-r from-orange-400 to-amber-400 bg-clip-text text-transparent">autintel</span>
+				</div>
+				<div class="hidden md:flex space-x-8">
+					<a href="#features" class="text-gray-700 hover:text-orange-400 transition">Features</a>
+					<a href="#benefits" class="text-gray-700 hover:text-orange-400 transition">Benefits</a>
+					<a href="#contact" class="text-gray-700 hover:text-orange-400 transition">Contact</a>
+				</div>
+				<button class="bg-orange-400 text-white px-6 py-2 rounded-lg hover:bg-orange-500 transition">Get Started</button>
+			</div>
+		</div>
+	</nav>
+
+	<!-- Hero Section -->
+	<section class="pt-32 pb-20 px-4 sm:px-6 lg:px-8">
+		<div class="max-w-7xl mx-auto">
+			<div class="text-center">
+				<h1 class="text-5xl md:text-6xl font-bold text-gray-900 mb-6">
+					Transform Data into 
+					<span class="bg-gradient-to-r from-orange-400 to-amber-400 bg-clip-text text-transparent">Actionable Intelligence</span>
+				</h1>
+				<p class="text-xl text-gray-600 max-w-3xl mx-auto mb-10">
+					We build platforms to help organizations gain visibility into their operations by integrating disparate datasets and empowering them to analyze and act using advanced ontology modeling and AI.
+				</p>
+				<div class="flex justify-center">
+					<a href="#contact" class="bg-orange-400 text-white px-8 py-4 rounded-lg text-lg font-semibold hover:bg-orange-500 transition shadow-lg">
+						Get in Touch
+					</a>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<!-- Features Section -->
+	<section id="features" class="py-20 bg-white">
+		<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+			<div class="text-center mb-16">
+				<h2 class="text-4xl font-bold text-gray-900 mb-4">Powerful Platform Features</h2>
+				<p class="text-xl text-gray-600">Everything you need to unlock operational excellence</p>
+			</div>
+			
+			<div class="grid md:grid-cols-3 gap-8">
+				<div class="p-8 rounded-xl bg-gradient-to-br from-orange-50 to-amber-50 hover:shadow-lg transition">
+					<div class="w-12 h-12 bg-orange-400 rounded-lg flex items-center justify-center mb-4">
+						<svg class="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+							<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 7v10c0 2.21 3.582 4 8 4s8-1.79 8-4V7M4 7c0 2.21 3.582 4 8 4s8-1.79 8-4M4 7c0-2.21 3.582-4 8-4s8 1.79 8 4m0 5c0 2.21-3.582 4-8 4s-8-1.79-8-4"></path>
+						</svg>
+					</div>
+					<h3 class="text-xl font-bold text-gray-900 mb-3">Data Platform</h3>
+					<p class="text-gray-600">Seamlessly connect and unify disparate data sources across your organization into a single, coherent platform.</p>
+				</div>
+
+				<div class="p-8 rounded-xl bg-gradient-to-br from-orange-100 to-amber-100 hover:shadow-lg transition">
+					<div class="w-12 h-12 bg-orange-400 rounded-lg flex items-center justify-center mb-4">
+						<svg class="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+							<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 20l-5.447-2.724A1 1 0 013 16.382V5.618a1 1 0 011.447-.894L9 7m0 13l6-3m-6 3V7m6 10l4.553 2.276A1 1 0 0021 18.382V7.618a1 1 0 00-.553-.894L15 4m0 13V4m0 0L9 7"></path>
+						</svg>
+					</div>
+					<h3 class="text-xl font-bold text-gray-900 mb-3">Ontology</h3>
+					<p class="text-gray-600">Advanced semantic modeling to create meaningful relationships and context across your data ecosystem.</p>
+				</div>
+
+				<div class="p-8 rounded-xl bg-gradient-to-br from-amber-50 to-orange-100 hover:shadow-lg transition">
+					<div class="w-12 h-12 bg-amber-500 rounded-lg flex items-center justify-center mb-4">
+						<svg class="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+							<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"></path>
+						</svg>
+					</div>
+					<h3 class="text-xl font-bold text-gray-900 mb-3">AI Platform</h3>
+					<p class="text-gray-600">Leverage artificial intelligence to discover insights, predict trends, and automate decision-making processes.</p>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<!-- Benefits Section -->
+	<section id="benefits" class="py-20 bg-gradient-to-br from-orange-400 to-amber-500 text-white">
+		<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+			<div class="text-center mb-16">
+				<h2 class="text-4xl font-bold mb-4">Drive Real Business Outcomes</h2>
+				<p class="text-xl text-orange-50">Our platform delivers measurable impact across your organization</p>
+			</div>
+			
+			<div class="grid md:grid-cols-2 gap-8">
+				<div class="flex items-start space-x-4">
+					<div class="flex-shrink-0">
+						<div class="w-10 h-10 bg-white/20 rounded-lg flex items-center justify-center">
+							<svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+								<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
+							</svg>
+						</div>
+					</div>
+					<div>
+						<h3 class="text-xl font-bold mb-2">Improve Efficiency</h3>
+						<p class="text-orange-50">Streamline operations and eliminate redundant processes through intelligent automation and data-driven insights.</p>
+					</div>
+				</div>
+
+				<div class="flex items-start space-x-4">
+					<div class="flex-shrink-0">
+						<div class="w-10 h-10 bg-white/20 rounded-lg flex items-center justify-center">
+							<svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+								<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
+							</svg>
+						</div>
+					</div>
+					<div>
+						<h3 class="text-xl font-bold mb-2">Optimize Resources</h3>
+						<p class="text-orange-50">Make smarter allocation decisions with comprehensive visibility into resource utilization and performance metrics.</p>
+					</div>
+				</div>
+
+				<div class="flex items-start space-x-4">
+					<div class="flex-shrink-0">
+						<div class="w-10 h-10 bg-white/20 rounded-lg flex items-center justify-center">
+							<svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+								<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
+							</svg>
+						</div>
+					</div>
+					<div>
+						<h3 class="text-xl font-bold mb-2">Gain Complete Visibility</h3>
+						<p class="text-orange-50">Break down data silos and achieve a unified view of your entire operational landscape in real-time.</p>
+					</div>
+				</div>
+
+				<div class="flex items-start space-x-4">
+					<div class="flex-shrink-0">
+						<div class="w-10 h-10 bg-white/20 rounded-lg flex items-center justify-center">
+							<svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+								<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
+							</svg>
+						</div>
+					</div>
+					<div>
+						<h3 class="text-xl font-bold mb-2">Act with Confidence</h3>
+						<p class="text-orange-50">Transform insights into action with AI-powered recommendations and predictive analytics.</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<!-- CTA Section -->
+	<section id="contact" class="py-20 bg-white">
+		<div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+			<h2 class="text-4xl font-bold text-gray-900 mb-4">Ready to Transform?</h2>
+			<p class="text-xl text-gray-600 mb-8">Email us at <a href="mailto:info@autintel.com" class="text-orange-400 hover:text-orange-500 font-semibold">info@autintel.com</a></p>
+		</div>
+	</section>
+
+	<!-- Privacy & Security Section -->
+	<section class="py-20 bg-gray-50">
+		<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+			<div class="text-center mb-16">
+				<h2 class="text-4xl font-bold text-gray-900 mb-4">Privacy & Security First</h2>
+				<p class="text-xl text-gray-600">Your data security and privacy are our top priorities</p>
+			</div>
+
+			<div class="grid md:grid-cols-3 gap-8">
+				<div class="bg-white p-8 rounded-xl shadow-sm hover:shadow-md transition">
+					<div class="w-12 h-12 bg-orange-400 rounded-lg flex items-center justify-center mb-6">
+						<svg class="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+							<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z"></path>
+						</svg>
+					</div>
+					<h3 class="text-xl font-bold text-gray-900 mb-4">Enterprise-Grade Security</h3>
+					<p class="text-gray-600">Bank-level encryption, SOC 2 compliance, and advanced threat protection to keep your data safe and secure.</p>
+				</div>
+
+				<div class="bg-white p-8 rounded-xl shadow-sm hover:shadow-md transition">
+					<div class="w-12 h-12 bg-orange-400 rounded-lg flex items-center justify-center mb-6">
+						<svg class="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+							<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"></path>
+						</svg>
+					</div>
+					<h3 class="text-xl font-bold text-gray-900 mb-4">Privacy by Design</h3>
+					<p class="text-gray-600">Built with privacy-first principles. We only collect and process data necessary for delivering our services.</p>
+				</div>
+
+				<div class="bg-white p-8 rounded-xl shadow-sm hover:shadow-md transition">
+					<div class="w-12 h-12 bg-orange-400 rounded-lg flex items-center justify-center mb-6">
+						<svg class="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+							<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+						</svg>
+					</div>
+					<h3 class="text-xl font-bold text-gray-900 mb-4">GDPR & Compliance</h3>
+					<p class="text-gray-600">Fully compliant with GDPR, CCPA, and other global privacy regulations. Your data rights are protected.</p>
+				</div>
+			</div>
+
+			<div class="mt-16 text-center">
+				<div class="bg-white p-8 rounded-xl shadow-sm">
+					<h3 class="text-2xl font-bold text-gray-900 mb-4">Transparent Data Practices</h3>
+					<p class="text-gray-600 mb-6">We believe in complete transparency about how we handle your data. Our platform provides clear visibility into data usage, access controls, and audit trails.</p>
+					<div class="flex flex-wrap justify-center gap-4 text-sm text-gray-500">
+						<span class="flex items-center">
+							<svg class="w-4 h-4 text-green-500 mr-2" fill="currentColor" viewBox="0 0 20 20">
+								<path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path>
+							</svg>
+							End-to-end encryption
+						</span>
+						<span class="flex items-center">
+							<svg class="w-4 h-4 text-green-500 mr-2" fill="currentColor" viewBox="0 0 20 20">
+								<path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path>
+							</svg>
+							Zero-trust architecture
+						</span>
+						<span class="flex items-center">
+							<svg class="w-4 h-4 text-green-500 mr-2" fill="currentColor" viewBox="0 0 20 20">
+								<path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path>
+							</svg>
+							Regular security audits
+						</span>
+						<span class="flex items-center">
+							<svg class="w-4 h-4 text-green-500 mr-2" fill="currentColor" viewBox="0 0 20 20">
+								<path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path>
+							</svg>
+							Data minimization
+						</span>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<!-- Footer -->
+	<footer class="bg-gray-900 text-gray-400 py-12">
+		<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+			<div class="grid md:grid-cols-4 gap-8">
+				<div>
+					<span class="text-2xl font-bold bg-gradient-to-r from-orange-400 to-amber-400 bg-clip-text text-transparent">autintel</span>
+					<p class="mt-4 text-sm">Transforming data into actionable intelligence.</p>
+				</div>
+				
+				<div>
+					<h4 class="font-semibold text-white mb-4">Product</h4>
+					<ul class="space-y-2 text-sm">
+						<li><span class="hover:text-white transition cursor-not-allowed">Features</span></li>
+						<li><span class="hover:text-white transition cursor-not-allowed">Integrations</span></li>
+						<li><span class="hover:text-white transition cursor-not-allowed">Pricing</span></li>
+					</ul>
+				</div>
+				
+				<div>
+					<h4 class="font-semibold text-white mb-4">Company</h4>
+					<ul class="space-y-2 text-sm">
+						<li><span class="hover:text-white transition cursor-not-allowed">About</span></li>
+						<li><span class="hover:text-white transition cursor-not-allowed">Blog</span></li>
+						<li><span class="hover:text-white transition cursor-not-allowed">Careers</span></li>
+					</ul>
+				</div>
+				
+				<div>
+					<h4 class="font-semibold text-white mb-4">Legal</h4>
+					<ul class="space-y-2 text-sm">
+						<li><span class="hover:text-white transition cursor-not-allowed">Privacy</span></li>
+						<li><span class="hover:text-white transition cursor-not-allowed">Terms</span></li>
+						<li><span class="hover:text-white transition cursor-not-allowed">Security</span></li>
+					</ul>
+				</div>
+			</div>
+			
+			<div class="border-t border-gray-800 mt-12 pt-8 text-sm text-center">
+				<p>&copy; {new Date().getFullYear()} autintel. All rights reserved.</p>
+			</div>
+		</div>
+	</footer>
+</div>
