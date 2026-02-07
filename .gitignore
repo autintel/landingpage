@@ -187,6 +187,112 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file. However, if you prefer, 
 #  you could uncomment the following to ignore the entire vscode folder
 # .vscode/
+.vscode/settings.json
+src/ts/autintellandingpage/.npmrc
+src/ts/autintellandingpage/.prettierignore
+src/ts/autintellandingpage/.prettierrc
+src/ts/autintellandingpage/.vscode/
+
+# SvelteKit
+src/ts/autintellandingpage/.svelte-kit/
+src/ts/autintellandingpage/build/
+src/ts/autintellandingpage/dist/
+
+# Node.js
+src/ts/autintellandingpage/node_modules/
+src/ts/autintellandingpage/.npm
+src/ts/autintellandingpage/.yarn-integrity
+
+# Environment variables
+src/ts/autintellandingpage/.env
+src/ts/autintellandingpage/.env.local
+src/ts/autintellandingpage/.env.production
+
+# Logs
+src/ts/autintellandingpage/logs
+src/ts/autintellandingpage/*.log
+src/ts/autintellandingpage/npm-debug.log*
+src/ts/autintellandingpage/yarn-debug.log*
+src/ts/autintellandingpage/yarn-error.log*
+
+# Runtime data
+src/ts/autintellandingpage/pids
+src/ts/autintellandingpage/*.pid
+src/ts/autintellandingpage/*.seed
+src/ts/autintellandingpage/*.pid.lock
+
+# Coverage directory used by tools like istanbul
+src/ts/autintellandingpage/coverage/
+src/ts/autintellandingpage/.nyc_output
+
+# Dependency directories
+src/ts/autintellandingpage/node_modules/
+src/ts/autintellandingpage/jspm_packages/
+
+# Optional npm cache directory
+src/ts/autintellandingpage/.npm
+
+# Optional eslint cache
+src/ts/autintellandingpage/.eslintcache
+
+# Microbundle cache
+src/ts/autintellandingpage/.rpt2_cache/
+src/ts/autintellandingpage/.rts2_cache_cjs/
+src/ts/autintellandingpage/.rts2_cache_es/
+src/ts/autintellandingpage/.rts2_cache_umd/
+
+# Optional REPL history
+src/ts/autintellandingpage/.node_repl_history
+
+# Output of 'npm pack'
+src/ts/autintellandingpage/*.tgz
+
+# Yarn Integrity file
+src/ts/autintellandingpage/.yarn-integrity
+
+# parcel-bundler cache (https://parceljs.org/)
+src/ts/autintellandingpage/.cache
+src/ts/autintellandingpage/.parcel-cache
+
+# Next.js build output
+src/ts/autintellandingpage/.next
+
+# Nuxt.js build / generate output
+src/ts/autintellandingpage/.nuxt
+src/ts/autintellandingpage/dist
+
+# Gatsby files
+src/ts/autintellandingpage/.cache/
+src/ts/autintellandingpage/public
+
+# Storybook build outputs
+src/ts/autintellandingpage/.out
+src/ts/autintellandingpage/.storybook-out
+
+# Temporary folders
+src/ts/autintellandingpage/tmp/
+src/ts/autintellandingpage/temp/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Testing
+src/ts/autintellandingpage/test-results/
+src/ts/autintellandingpage/playwright-report/
+src/ts/autintellandingpage/playwright/.cache/
 
 # Ruff stuff:
 .ruff_cache/
