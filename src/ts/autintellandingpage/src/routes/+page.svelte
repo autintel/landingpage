@@ -40,7 +40,7 @@
 	<section id="features" class="py-20 bg-white">
 		<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
 			<div class="text-center mb-16">
-				<h2 class="text-4xl font-bold text-gray-900 mb-4">Powerful Platform Features</h2>
+				<h2 class="text-4xl font-bold text-gray-900 mb-4">Platform That Works For You</h2>
 				<p class="text-xl text-gray-600">Everything you need to unlock operational excellence</p>
 			</div>
 			
@@ -72,7 +72,7 @@
 						</svg>
 					</div>
 					<h3 class="text-xl font-bold text-gray-900 mb-3">AI Platform</h3>
-					<p class="text-gray-600">Leverage artificial intelligence to discover insights, predict trends, and automate decision-making processes.</p>
+					<p class="text-gray-600">Leverage artificial intelligence to discover insights, predict trends, proactively detect anomalies, and automate decision-making processes.</p>
 				</div>
 			</div>
 		</div>
